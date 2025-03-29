@@ -3,7 +3,7 @@ I'm a fullstack developer with focus in productivity, networking, schedules and 
 
 🖥 Technical's Degree in Software's Development  
 📚 Coursing Bachelor's Degree in Computer Science  
-🌠 Coursing Frontnd Development by FORD ENTER and SENAI CIMATEC  
+🌠 Coursing Frontend Development by FORD ENTER in SENAI CIMATEC  
 🏙 Internshiping as Developer in Horizon - Inovation and Technology  
 
 ## Experience 😄
