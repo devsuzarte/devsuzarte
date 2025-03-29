@@ -15,10 +15,6 @@ At moment I'm working there and I'm having the oportunity to learn a lot about d
 In this project I created a landing page for the company using wordpress, hostinger and the Squarespace to buy, host and structure the website. You can take a look right here.  
 <a href="ecoxconsultoria.com" target="_blank">ecoxconsultoria</a>
 
-**Personal Project**  
-I noticed that my friends always needed to use document apps to organize their table rpg's games. So, I decided to build a discord bot to manage every single player's needs, and it was a really great successful project and was accepted for all. Then, when I've time to work I spend time updating it.  
-<a href="https://github.com/devsuzarte/rpg-bot" target="_blank">hakusho-system</a>
-
 ## Languages and Frameworks  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,bootstrap)](https://skillicons.dev)      
 ### Front-end 🌟
