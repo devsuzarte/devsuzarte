@@ -13,7 +13,7 @@ At moment I'm working there and I'm having the oportunity to learn a lot about d
 
 **Freelance (ECOX Consultoria)**  
 In this project I created a landing page for the company using wordpress, hostinger and the Squarespace to buy, host and structure the website. You can take a look right here.  
-<a href="ecoxconsultoria.com" target="_blank">ecoxconsultoria</a>
+[ecoxconsultoria](https://ecoxconsultoria.com/)
 
 ## Languages and Frameworks  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,bootstrap)](https://skillicons.dev)      
