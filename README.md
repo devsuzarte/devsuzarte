@@ -8,12 +8,15 @@ I'm a fullstack developer with focus in productivity, networking, schedules and 
 
 ## Experience 😄
 
-**Internshiper in Development (Horizon)**  
+**Intern in Development (Horizon)**  
 At moment I'm working there and I'm having the oportunity to learn a lot about database, agile methods and development. We use SQL Server to manage the database, tables and reports.     
 
 **Freelance (ECOX Consultoria)**  
 In this project I created a landing page for the company using wordpress, hostinger and the Squarespace to buy, host and structure the website. You can take a look right here.  
 [ecoxconsultoria](https://ecoxconsultoria.com/)
+
+**Intern (Ford Motor Company)**
+Currently I work at Ford. Now, I'm studying Angular and NestJS, building advanced APIs with Ford's LLM applications. Growing up my knowledge about Artificial Intelligence.
 
 ## Languages and Frameworks  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,bootstrap)](https://skillicons.dev)      
