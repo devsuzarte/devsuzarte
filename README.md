@@ -15,66 +15,7 @@
 
 ---
 
-## About me
-
-I'm a **Fullstack Developer** with **4+ years** of experience building production-grade applications — from pixel-perfect interfaces to cloud-native backends and AI pipelines.
-
-Currently at **Ford Motor Company**, I architect fullstack solutions with Angular, NestJS and LLM integrations, working with Tekton CI/CD pipelines, Apigee API gateways and Azure DevOps. I'm especially passionate about **Generative AI**, **Cloud infrastructure** and modern developer tooling — I enjoy turning complex problems into clean, scalable systems.
-
-I also teach programming privately, which keeps me sharp on technical clarity and fundamentals. My **upper-intermediate English** lets me collaborate with international teams and clients without barriers.
-
-> *Outside the terminal: I play guitar 🎸, sing and go cycling 🚴*
-
-```ts
-const dev = {
-  name:      'Juan Benjamin Almeida Suzarte',
-  alias:     'devsuzarte',
-  role:      'Fullstack Developer + DevOps',
-  location:  'Brazil 🇧🇷',
-  english:    true,
-  stack:     ['React', 'NestJS', 'Google Cloud', 'LangChain'],
-  learning:  ['Multi-Agent Systems', 'RAG Pipelines', 'Terraform'],
-  status:    'open to work', // ✓
-}
-```
-
----
-
-## Experience
-
-<table>
-<tr>
-<td width="50">🏭</td>
-<td>
-
-**Ford Motor Company** — Fullstack Developer *(current)*
-Fullstack development with Angular, NestJS and Ford's LLM integrations. CI/CD with Tekton, API management with Apigee, code quality with SonarQube. AI features using LangChain, RAG and PGVector embeddings.
-
-</td>
-</tr>
-<tr>
-<td>🚀</td>
-<td>
-
-**Horizon — Innovation & Technology** — Developer
-Fullstack systems with SQL Server, Node.js and React. Agile methodologies, database architecture and report engineering.
-
-</td>
-</tr>
-<tr>
-<td>🌱</td>
-<td>
-
-**ECOX Consultoria** — Freelance Developer
-Full landing page: design, architecture, hosting on Hostinger. Live at [ecoxconsultoria.com](https://ecoxconsultoria.com)
-
-</td>
-</tr>
-</table>
-
----
-
-## Tech Stack
+## TECH STACK
 
 ### 🎨 Design
 [![Design](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
@@ -114,7 +55,7 @@ Full landing page: design, architecture, hosting on Hostinger. Live at [ecoxcons
 
 ---
 
-## GitHub Stats
+## GITHUB STATS
 
 <div align="center">
 
@@ -139,13 +80,13 @@ Full landing page: design, architecture, hosting on Hostinger. Live at [ecoxcons
 
 ---
 
-## Activity
+## ACTIVITY
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devsuzarte&bg_color=1c0f0a&color=c07840&line=d4922a&point=e8d5ba&area=true&area_color=3d2b1f&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## Contact
+## CONTACT
 
 <div align="center">
 
