@@ -55,37 +55,6 @@
 
 ---
 
-## GITHUB STATS
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devsuzarte&show_icons=true&bg_color=1c0f0a&title_color=c07840&icon_color=d4922a&text_color=e8d5ba&border_color=3d2b1f&count_private=true&hide_border=false" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsuzarte&layout=compact&bg_color=1c0f0a&title_color=c07840&text_color=e8d5ba&border_color=3d2b1f&hide=html,css&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=devsuzarte&theme=dark&background=1c0f0a&ring=c07840&fire=d4922a&currStreakLabel=e8d5ba&sideLabels=e8d5ba&currStreakNum=f5ede0&dates=8a6d5c&border=3d2b1f)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=devsuzarte&theme=darkhub&no-frame=false&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## ACTIVITY
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devsuzarte&bg_color=1c0f0a&color=c07840&line=d4922a&point=e8d5ba&area=true&area_color=3d2b1f&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## CONTACT
 
 <div align="center">
